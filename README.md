@@ -25,8 +25,10 @@
   <a href="https://github.com/shamsuriazmi">
     <img src="https://badges.pufler.dev/visits/shamsuriazmi/shamsuriazmi?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Terabyte17?tab=repositories">
+  <a href="https://github.com/shamsuriazmi?tab=repositories">
     <img src="https://badges.pufler.dev/repos/shamsuriazmi?style=flat-square&color=black&logo=github">
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/shamsuriazmi?style=flat-square&color=black&logo=github">
   </a>
 </p>
 <p align="center">
