@@ -17,16 +17,7 @@
 <a href="https://www.linkedin.com/in/shamsuri-azmi-624494137/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
-<p align=center>
-  <a href="https://github.com/shamsuriazmi">
-    <img src="https://badges.pufler.dev/visits/shamsuriazmi/shamsuriazmi?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/shamsuriazmi?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/shamsuriazmi?style=flat-square&color=black&logo=github">
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/shamsuriazmi?style=flat-square&color=black&logo=github">
-  </a>
-</p>
+
 <p align="center">
 <a href="https://github.com/shamsuriazmi"><img src="https://img.shields.io/github/followers/shamsuriazmi?style=social"></a>
 </p>
